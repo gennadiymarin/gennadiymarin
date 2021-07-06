@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning some basic things about machine learning
 - 💞️ I’m looking to collaborate on some good and interesting project
 - 📫 How to reach me: 
---email: gennadiy.marin@list.ru
---telegram: @gennadiymarin
+  >email: gennadiy.marin@list.ru
+  >telegram: @gennadiymarin
 
 <!---
 gennadiymarin/gennadiymarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
