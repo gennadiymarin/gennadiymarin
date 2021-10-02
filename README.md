@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gennadiymarin, I'm a student who just have finished school; btw, nowedays, I'm on summer vacations
+- 👋 Hi, I’m @gennadiymarin, I'm a CS HSE first-year student;
 - 👀 I’m interested in playing guitar, learning and creating new things
 - 🌱 I’m currently learning some basic things about machine learning
 - 💞️ I’m looking to collaborate on some good and interesting project
