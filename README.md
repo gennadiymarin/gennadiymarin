@@ -17,4 +17,4 @@ I'm a first-year Computer Science HSE student. My major is Applied Maths and IT.
 #### My github stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gennadiymarin&show_icons=true&theme=graywhite" />
 
-![](https://komarev.com/ghpvc/?username=gennadiymarin)
+<!-- ![](https://komarev.com/ghpvc/?username=gennadiymarin) -->
