@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @gennadiymarin, I'm a CS HSE first-year student;
-- 👀 I’m interested in playing guitar, learning and creating new things
-- 🌱 I’m currently learning some basic things about machine learning
-- 💞️ I’m looking to collaborate on some good and interesting project
-- 📫 How to reach me:
-    -  email: gennadiy.marin@list.ru
-    -  telegram: @gennadiymarin
+### Hey, I'm Gennadiy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏼‍💻 
 
-<!---
-gennadiymarin/gennadiymarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ![Developer](https://www.google.com/search?q=code&sxsrf=APq-WBu2aho6dzJDiWOT5tQihn622R38eA:1649490926629&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjgtffFwIb3AhVCi8MKHQGHBLUQ_AUoAXoECCYQAw&biw=1492&bih=1222&dpr=1#imgrc=ttEC4bUW6djp_M) -->
+
+I'm a first-year Computer Science HSE student. My major is Applied Maths and IT.
+<br/> My passion is the idea of creating something which will simplify people's lifes and brings benefits in it! Because nothing can be more satisfying than understanding that your product makes someone happy! 
+
+
+#### Skills and Experience:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
+#### My github stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gennadiymarin&show_icons=true&theme=graywhite" />
+
+![](https://komarev.com/ghpvc/?username=gennadiymarin)
