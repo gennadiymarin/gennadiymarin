@@ -1,6 +1,6 @@
 ### Hey, I'm Gennadiy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏼‍💻 
 
-<!-- ![Developer](https://www.google.com/search?q=code&sxsrf=APq-WBu2aho6dzJDiWOT5tQihn622R38eA:1649490926629&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjgtffFwIb3AhVCi8MKHQGHBLUQ_AUoAXoECCYQAw&biw=1492&bih=1222&dpr=1#imgrc=ttEC4bUW6djp_M) -->
+<!-- ![Developer](https://github.com/gennadiymarin/gennadiymarin/blob/main/let'sCode.jpg) -->
 
 I'm a first-year Computer Science HSE student. My major is Applied Maths and IT.
 <br/> My passion is the idea of creating something which will simplify people's lifes and brings benefits in it! Because nothing can be more satisfying than understanding that your product makes someone happy! 
