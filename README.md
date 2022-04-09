@@ -11,6 +11,9 @@ I'm a first-year Computer Science HSE student. My major is Applied Maths and IT.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
+#### Contact me:
+  telegram: @gennadiymarin
+
 #### My github stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gennadiymarin&show_icons=true&theme=graywhite" />
 
