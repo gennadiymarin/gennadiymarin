@@ -12,7 +12,7 @@ I'm a first-year student at the Faculty of Computer Science at HSE. My major is 
 
 
 ### Contact me:
-  telegram: @gennadiymarin
+  - Telegram: [@gennadiymarin](https://t.me/gennadiymarin)
 
 ### My github stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gennadiymarin&show_icons=true&theme=graywhite" />
