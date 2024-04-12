@@ -14,7 +14,7 @@ I'm a thrid-year student at the Faculty of Computer Science at HSE. My major is 
 ### Contact me:
   - Telegram: [@gennadiymarin](https://t.me/gennadiymarin)
 
-### My github stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gennadiymarin&show_icons=true&theme=graywhite" />
+<!--  ### My github stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gennadiymarin&show_icons=true&theme=graywhite" /> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=gennadiymarin) -->
