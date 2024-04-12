@@ -2,7 +2,7 @@
 
 <!-- ![Developer](https://github.com/gennadiymarin/gennadiymarin/blob/main/let'sCode.jpg) -->
 
-I'm a second-year student at the Faculty of Computer Science at HSE. My major is Applied Maths and Information Science.
+I'm a thrid-year student at the Faculty of Computer Science at HSE. My major is Applied Maths and Information Science, specialization Machine Learning.
 <br/> My passion is the idea of creating something which will simplify people's lifes and brings benefits in it! Because nothing can be more satisfying than understanding that your product makes someone happy! 
 
 
